@@ -1,7 +1,5 @@
 <p align="center">
-  <span style="color:#00F2FF; font-size:48px; font-weight:700; letter-spacing:6px;">
-    ANIRUDH SURESH
-  </span>
+  <img src="assets/name.svg" alt="Anirudh Suresh" />
 </p>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;AI-Driven+System+Builder;Technical+Mentor" alt="Typing SVG" />
