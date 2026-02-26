@@ -1,9 +1,7 @@
 <p align="center">
   <img src="assets/name.svg" alt="Anirudh Suresh" />
 </p>
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;AI-Driven+System+Builder;Technical+Mentor" alt="Typing SVG" />
-</p>
+
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=BF5AF2&center=true&vCenter=true&width=500&lines=Full+Stack+Engineer;AI+%26+Assistive+Tech+Innovator;Scalable+System+Architect;ACM+Student+Chapter+Lead" alt="Typing SVG" />
