@@ -1,75 +1,64 @@
-Anirudh Suresh
+# Hi there! I'm Anirudh Suresh 👋 
 
-Full Stack Developer passionate about building scalable web applications and AI-driven systems. I enjoy working on healthcare tech, accessibility-focused platforms, and real-world problem-solving applications.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;AI-Driven+System+Builder;Scalable+Architectures;Technical+Mentor" alt="Typing SVG" />
+</p>
 
-Thrissur, Kerala
-Email: anirudh05suresh@gmail.com
+---
 
-LinkedIn: linkedin.com/in/anirudh05suresh
-GitHub: github.com/Anirudh05bit
+### 🚀 About Me
 
-About Me
+I am a **Computer Science Engineering** student at **Amrita Vishwa Vidyapeetham** (CGPA: 8.99). I’m a problem-solver at heart, dedicated to building accessible, high-performance web applications that bridge the gap between complex tech and human needs.
 
-I am a Computer Science Engineering student at Amrita Vishwa Vidyapeetham (CGPA: 8.99). I actively contribute to technical communities, mentor students, and build full-stack applications that solve real-world problems.
+- 🏥 **Passionate about:** Healthcare Tech & Assistive Intelligence.
+- 🎓 **Leadership:** Core Member & WEB-SIG Co-Lead at **ACM Student Chapter**.
+- 🏆 **Experience:** Volunteer Coordinator for **ICPC Asia West Amritapuri 2026**.
 
-My interests include:
+---
 
-Full Stack Development
+### 🛠️ Technical Toolkit
 
-AI & Assistive Technology
+| Category | Skills |
+| :--- | :--- |
+| **Languages** | ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![C](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=white) ![Haskell](https://img.shields.io/badge/-Haskell-5D4F85?logo=haskell&logoColor=white) |
+| **Frontend** | ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black) ![React Native](https://img.shields.io/badge/-React_Native-61DAFB?logo=react&logoColor=black) ![MERN](https://img.shields.io/badge/-MERN_Stack-47A248?logo=mongodb&logoColor=white) |
+| **Backend** | ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white) ![Spring Boot](https://img.shields.io/badge/-Spring_Boot-6DB33F?logo=springboot&logoColor=white) |
+| **Databases** | ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white) ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black) |
 
-Blockchain & Web3
+---
 
-Backend System Design
+### 📂 Featured Projects
 
-Scalable Database Architectures
+> **[Adapt AI](https://github.com/Anirudh05bit)** > *A Multimodal Adaptive Ability Assessment system.* Clinical-grade web app for structured disability support.  
+> `React` `Node.js` `AI Integration`
 
-Projects
-LogBook App
+> **[LogBook App](https://github.com/Anirudh05bit)** > *Campus-wide attendance tracking.* Secure, scalable, and built for real-time institutional use.  
+> `React` `PostgreSQL` `Backend Security`
 
-A full-stack attendance tracking system developed for Amrita Vishwa Vidyapeetham.
-Built using React.js frontend, PostgreSQL database, and secure backend services.
+> **[YathraMate](https://github.com/Anirudh05bit)** > *Traveler Scam Protection.* A mobile app identifying fair local prices using a Node.js/MySQL backbone.  
+> `React Native` `Node.js` `MySQL`
 
-Adapt AI
+---
 
-A Multimodal Adaptive Ability Assessment and Assistive Intelligence System.
-A clinical-grade, accessibility-first web application that provides structured ability assessment and assistive support across disability categories.
+### 📊 GitHub Stats & Activity
 
-YathraMate
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Anirudh05bit&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anirudh05bit&layout=compact&theme=tokyonight"/>
+</p>
 
-A scam protection mobile app that helps travelers identify fair local prices and avoid overcharging when visiting new places.
-Built using React Native with a Node.js backend and MySQL database.
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Anirudh05bit&theme=tokyonight" alt="GitHub Streak" />
+</p>
 
-Hostel Management System
+---
 
-A centralized platform enabling wardens to track student attendance, manage hostel allocations, and process online leave applications efficiently.
-Developed using React.js (frontend), Java Spring Boot (backend), and MongoDB (database).
+### 📬 Connect with Me
 
-Hospital Management System
+<p align="left">
+<a href="https://linkedin.com/in/anirudh05suresh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anirudh05suresh" height="30" width="40" /></a>
+<a href="mailto:anirudh05suresh@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="anirudh05suresh" height="30" /></a>
+</p>
 
-A digital platform that enables patients to book doctor appointments online and allows doctors to efficiently access, manage, and monitor patient information.
-
-Leadership & Community
-Core Member & WEB-SIG Co-Lead — ACM Student Chapter
-
-Mentored 50+ students in web development and Python.
-
-Conducted seminars, bridge courses, and guided technical projects.
-
-Volunteer Coordinator — ICPC Asia West Amritapuri Regionals 2026
-
-Coordinated volunteers and managed logistics for a large-scale international programming contest.
-
-Certifications
-
-Oracle SQL Certification
-
-Infosys Soft Skill Program
-
-Technical Skills
-
-Programming Languages: Java, C, Python, Haskell
-Frontend: React.js, React Native
-Backend: Node.js, Spring Boot
-Database: MongoDB, MySQL, PostgreSQL, Firebase
-Other: MERN Stack, SQL
+---
+*“Building tech that makes a difference, one line of code at a time.”*
