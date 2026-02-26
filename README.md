@@ -1,7 +1,6 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&weight=700&size=50&color=cyan&center=true&vCenter=true&width=600&lines=ANIRUDH+SURESH" alt="Anirudh Suresh" />
+  <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=700&size=42&duration=2500&pause=800&color=0A66C2&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Anirudh+Suresh;Full+Stack+Developer;AI+%7C+Web+%7C+Backend+Engineer;Building+Impactful+Tech" />
 </p>
-
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;AI-Driven+System+Builder;Technical+Mentor" alt="Typing SVG" />
 </p>
