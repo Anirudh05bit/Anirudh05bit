@@ -1,18 +1,18 @@
-# Hi there! I'm Anirudh Suresh 👋 
+# Anirudh Suresh  
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;AI-Driven+System+Builder;Scalable+Architectures;Technical+Mentor" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;AI-Driven+System+Builder;Technical+Mentor" alt="Typing SVG" />
 </p>
 
 ---
 
-### 🚀 About Me
+###  About Me
 
 I am a **Computer Science Engineering** student at **Amrita Vishwa Vidyapeetham** (CGPA: 8.99). I’m a problem-solver at heart, dedicated to building accessible, high-performance web applications that bridge the gap between complex tech and human needs.
 
-- 🏥 **Passionate about:** Healthcare Tech & Assistive Intelligence.
-- 🎓 **Leadership:** Core Member & WEB-SIG Co-Lead at **ACM Student Chapter**.
-- 🏆 **Experience:** Volunteer Coordinator for **ICPC Asia West Amritapuri 2026**.
+-  **Passionate about:** Healthcare Tech & Assistive Intelligence.
+-  **Leadership:** Core Member & WEB-SIG Co-Lead at **ACM Student Chapter**.
+-  **Experience:** Volunteer Coordinator for **ICPC Asia West Amritapuri 2026**.
 
 ---
 
