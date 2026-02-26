@@ -1,5 +1,5 @@
 <p align="center">
-  <span style="color:#00F2FF; font-size:48px; font-weight:700; letter-spacing:2px;">
+  <span style="color:#cyan; font-size:88px; font-weight:900; letter-spacing:3px;">
     ANIRUDH SURESH
   </span>
 </p>
